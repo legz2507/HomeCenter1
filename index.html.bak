@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+	<link rel="stylesheet" href="css/main.css">
+
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<script type="text/javascript" src="engine0/jquery.js"></script>
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<!--script type="text/javascript" src="engine0/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<!--script type="text/javascript" src="engine0/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section -->
+	<!-- Start WOWSlider.com HEAD section --> <!-- add to the <head> of your page -->
+	<link rel="stylesheet" type="text/css" href="engine0/style.css" />
+	<!--script type="text/javascript" src="engine0/jquery.js"></script-->
+	<!-- End WOWSlider.com HEAD section --></head>
+<body>
+	<div class="wrapper">
+		<header > 
+			<a href="">
+				<img class="img1" src="img/logo_homecenter.jpg">
+			</a>
+			<ul id="myTopnav" class="top-menu">
+				<li class="icon"><a href="javascript:void(0);" style="font-size:15px;" onclick="myFunction()">☰</a></li>
+				<li><a href=""><h3>Indicadores Sociales</h3></a></li>
+				<li><a href=""><h3>Indicadores Economicos</h3></a></li>
+				<li><a href=""><h3>Indicadores Ambientales</h3></a></li>
+			</ul>
+		</header>
+		<div class="line-clear">
+			<!--aqui va lo de la animacion-->
+	
+		<div class="middle">
+	
+	
+	
+			<div class="intro">
+				<!--<h1>Greetings</h1>
+				<h2>Lorem isum dolor sit amet, consectetur</h2>
+				<hr>				
+				<h3>Lorem ipsum dolor sit amet</h3>
+				<p> 
+					consectetur adipisicing elit. Laudantium fuga quis nesciunt quod repellat itaque sed ex, perspiciatis facere deleniti corporis quia vero magni perferendis assumenda tenetur architecto. Hic, doloribus!
+				</p>
+				-->
+			</div>
+		</div>
+	
+		<div class="bottom">
+			<nav>
+				 <ul>
+					<li>Texto</li>
+					<li>Texto</li>
+					<li>Texto</li>
+					<li>Texto</li>
+					<li>Texto</li>
+				</ul>
+			</nav>
+			<div class="top">
+				<h1>
+					<img src="img/bullet.gif">
+					Bienvenido a Nuestro Sitio Web
+				</h1>
+				<hr>
+				<div>
+					<img src="img/img2.gif" alt="">
+					<p><h3>Lorem ipsum dolor sit amet</h3>
+					 consectetur adipisicing elit. Reprehenderit voluptas natus commodi inventore possimus. In beatae blanditiis maiores possimus exercitationem hic illum dolorum. Eaque atque praesentium officiis accusamus, architecto et!</p>
+				</div>
+			</div>
+			<div class="bot">
+				<div class="elem">
+					<div class="top">
+						<h2>
+							<img src="img/bullet.gif">
+							Hogar Verde
+						</h2>
+						<hr>
+						<div>
+							<img src="img/img3.gif" alt="">
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi voluptatum, eligendi quaerat odio porro dicta molestiae.</p>
+						</div>
+				 	</div>
+				</div>
+				<div class="elem">
+					<div class="top">
+						<h2>
+						<img src="img/bullet.gif">
+						Quienes Somos
+						</h2>
+						<hr>
+						<div>
+							<p> Est numquam architecto hic quibusdam ea explicabo atque sunt aliquam quaerat, temporibus dolor nostrum.</p>
+						</div>
+					</div>
+				</div>
+				<div class="elem">
+					<div class="top">
+						<h2>
+							<img src="img/bullet.gif">
+							Responsabilidad Social
+						</h2>
+						<hr>
+						<div>
+							<img src="img/img4.gif" alt="">
+							<p> Est numquam architecto hic quibusdam ea explicabo atque sunt aliquam quaerat, temporibus dolor nostrum.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		
+		<footer></footer>
+	</div>	
+
+<script>
+function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "top-menu") {
+        x.className += " responsive";
+    } else {
+        x.className = "top-menu";
+    }
+}
+</script>
+</body>
+</html>
